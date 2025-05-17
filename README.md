@@ -57,7 +57,7 @@
 ---
 
 ### 🌐 Find me on:
-- 💼 My secondary GitHub account: [Lucifer](https://github.com/Lucifer)
+- 💼 My secondary GitHub account: [Lucifer](https://github.com/ِAbdou-rx)
 - 🌍 My website and bot: [Triecbot.xyz](https://triecbot.xyz)
 - 🐧 Discord: `1t_na`
 
