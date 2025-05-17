@@ -28,6 +28,16 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![FastSQL](https://img.shields.io/badge/-FastSQL-009688?style=flat&logo=mysql&logoColor=white)
 ![V8 JS](https://img.shields.io/badge/-V8%20JavaScript-black?logo=google&style=flat)
+![F%23](https://img.shields.io/badge/-F%23-239120?logo=.net&logoColor=white&style=flat)
+![Shell](https://img.shields.io/badge/-Shell%20Scripting-89E051?logo=gnu-bash&logoColor=white&style=flat)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
+![C%23](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 #### 🧰 Tools & Frameworks:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
