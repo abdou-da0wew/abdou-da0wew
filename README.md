@@ -2,7 +2,7 @@
 <h3 align="center">A 14-year-old Linux user and passionate full-stack developer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer+💻;Always+learning+new+things+🧠;Glad+to+have+you+here!+🎉" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5F34D2&background=8D35FF00&width=435&lines=The+best+developer+ever!" alt="Typing SVG" /></a>
 </p>
 
 ---
