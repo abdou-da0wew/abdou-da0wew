@@ -2,7 +2,7 @@
 <h3 align="center">A 14-year-old Linux user and passionate full-stack developer 💻</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5F34D2&background=8D35FF00&width=435&lines=The+best+developer+ever!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=4984&pause=800&color=440ED4C8&width=435&lines=Problem+Solver;14+y%2Fo+Coder;Full-Stack+Dev;Node.js+Addict;Terminal+Native;Brain+%3D+Binary;Design+%2B+Code;Code.+Build.+Dominate.;Coffee+%3C+Syntax+%3E+Sleep;CTRL+%2B+Future;Linux+Blooded;Pixels+%26+Packets;Bug+Hunter;Digital+Architect;Creator+%4014;Triecbot's+Father;I+Am+Abdou." alt="Typing SVG" /></a>
 </p>
 
 ---
