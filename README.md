@@ -50,9 +50,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
