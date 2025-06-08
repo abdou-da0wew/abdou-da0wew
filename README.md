@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Abdou 👋</h1>
-<h3 align="center">A 14-year-old Linux user and passionate full-stack developer 💻</h3>
+<h3 align="center">🚀 A 14-year-old Full-Stack Developer & Linux Native 🐧</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=4984&pause=800&color=440ED4C8&width=435&lines=Problem+Solver;14+y%2Fo+Coder;Full-Stack+Dev;Node.js+Addict;Terminal+Native;Brain+%3D+Binary;Design+%2B+Code;Code.+Build.+Dominate.;Coffee+%3C+Syntax+%3E+Sleep;CTRL+%2B+Future;Linux+Blooded;Pixels+%26+Packets;Bug+Hunter;Digital+Architect;Creator+%4014;Triecbot's+Father;I+Am+Abdou." alt="Typing SVG" /></a>
@@ -8,60 +8,84 @@
 ---
 
 ### 🧠 About Me:
-- 💬 My name is Abdou, also known as **Lucifer**.
-- 🎂 Age: 14 years old.
-- 🐧 OS: Linux user.
-- ⚙️ Currently working with **Next.js** (still learning React, so it's a bit tough 😅).
-- 🚀 Passionate about web projects, bots, and automation.
+```bash
+> whoami
+👤 Abdou (a.k.a. Lucifer)
+
+> age
+🔢 14 y/o
+
+> os
+🐧 Linux Blooded
+
+> projects
+🌍 triecbot.xyz | bots, automation & domination
+
+> learning
+⚛️ Next.js + React (React still bullying me a bit 😂)
+
+> motto
+⚡ Code. Build. Break. Rebuild. Rule.
+````
 
 ---
 
-### 🛠️ Skills & Technologies:
+### 🛠️ Skills & Stack
 
-#### 💻 Languages:
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![FastSQL](https://img.shields.io/badge/-FastSQL-009688?style=flat&logo=mysql&logoColor=white)
-![V8 JS](https://img.shields.io/badge/-V8%20JavaScript-black?logo=google&style=flat)
-![F%23](https://img.shields.io/badge/-F%23-239120?logo=.net&logoColor=white&style=flat)
-![Shell](https://img.shields.io/badge/-Shell%20Scripting-89E051?logo=gnu-bash&logoColor=white&style=flat)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
-![C%23](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+```bash
+> langs --list
+📦 Kotlin, Python, Node.js, JS/TS, PHP, Go, Swift, Rust
+🧠 SQL / FastSQL / MongoDB
+🔍 Shell, C#, Lua, V8 JS, Java
 
-#### 🧰 Tools & Frameworks:
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Fastify](https://img.shields.io/badge/-Fastify-20232a?logo=fastify&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+> frameworks --full
+🛠️ Express.js, Fastify, Docker, Flutter, Next.js
+
+> i'm currently in love with:
+💚 Terminal UI, System Automation, and Creative Coding
+```
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Flexing
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </p>
 
+---
+
+### 🌐 Connect with me:
+
+| Platform      | Link                                            |
+| ------------- | ----------------------------------------------- |
+| 🌍 Website    | [Triecbot.xyz](https://triecbot.xyz)            |
+| 🐱 GitHub     | [Abdou-da0wew](https://github.com/abdou-da0wew) |
+| 🧪 Alt GitHub | [Abdou-rx](https://github.com/Abdou-rx)         |
+| 💬 Discord    | `1t_na`                                         |
 
 ---
 
-### 🌐 Find me on:
-- 💼 My secondary GitHub account: [Abdou-rx](https://github.com/ِAbdou-rx)
-- 🌍 My website and bot: [Triecbot.xyz](https://triecbot.xyz)
-- 🐧 Discord: `1t_na`
+### 🧠 Divee – Smart AI Assistant :3
+
+```bash
+> systemctl start divee.service
+🟢 Running Divee, the digital sidekick of Abdou.
+📍 Assists with code, logic, bot-making, and domination.
+```
 
 ---
 
-### ✨ Thanks for stopping by! ✨
+```bash
+> echo "I'm 14 but code like I'm 40"
+💥 Output: TRUE
+```
+
+### 🧠 Fun Quote:
+> _"In a world full of bugs, be the debugger."_
+
+---
+
+<p align="center"><b>Thanks for visiting my terminal. Come back stronger 💻</b></p>
+
