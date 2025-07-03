@@ -48,13 +48,20 @@
 ---
 
 ### 📊 GitHub Flexing
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </p>
 
 ---
+### 📊 Discord Stats
+
+<p align="center">
+  <a href="https://discord.com/users/1276261981392867431">
+    <img src="https://lanyard.cnrad.dev/api/1276261981392867431?bg=0a0a14&borderRadius=10px&theme=dark" alt="Discord Presence" />
+  </a>
+</p>
+
 
 ### 🌐 Connect with me:
 
@@ -83,9 +90,12 @@
 ```
 
 ### 🧠 Fun Quote:
-> _"In a world full of bugs, be the debugger."_
+
+> *"In a world full of bugs, be the debugger."*
 
 ---
 
 <p align="center"><b>Thanks for visiting my terminal. Come back stronger 💻</b></p>
+
+---
 
