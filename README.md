@@ -22,7 +22,7 @@
 🌍 triecbot.xyz | bots, automation & domination
 
 > learning
-⚛️ Next.js + React (React still bullying me a bit 😂)
+⚛️ Next.js + React (Now I'm bullying React a bit 😂)
 
 > motto
 ⚡ Code. Build. Break. Rebuild. Rule.
