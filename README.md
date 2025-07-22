@@ -10,7 +10,7 @@
 ### 🧠 About Me:
 ```bash
 > whoami
-👤 Abdou (a.k.a. Lucifer)
+👤 Abdou (a.k.a. Abdbyte)
 
 > age
 🔢 14 y/o
