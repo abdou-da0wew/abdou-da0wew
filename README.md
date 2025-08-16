@@ -10,7 +10,7 @@
 ### 🧠 About Me:
 ```bash
 > whoami
-👤 Abdou (a.k.a. Abdbyte), Software Architect, DevOps Engineer, Full Stack Developer, Backend Developer, UI/UX Designer, Database Administrator (DBA), Mobile Developer, Security Engineer, and much more sooner!
+👤 Abdou (a.k.a. Abdbyte)
 
 > age
 🔢 14 y/o
