@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Abdou 👋</h1>
-<h3 align="center">🚀 A 14-year-old Full-Stack Developer & Linux Native 🐧</h3>
+<h3 align="center">🚀 14 y/o Full-Stack Learner & Linux Enthusiast 🐧</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=4984&pause=800&color=440ED4C8&width=435&lines=Problem+Solver;14+y%2Fo+Coder;Full-Stack+Dev;Node.js+Addict;Terminal+Native;Brain+%3D+Binary;Design+%2B+Code;Code.+Build.+Dominate.;Coffee+%3C+Syntax+%3E+Sleep;CTRL+%2B+Future;Linux+Blooded;Pixels+%26+Packets;Bug+Hunter;Digital+Architect;Creator+%4014;Triecbot's+Father;I+Am+Abdou." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=4984&pause=800&color=440ED4C8&width=435&lines=Problem+Solver;Teen+Coder;Full-Stack+Explorer;Node.js+Learner;Linux+Native;Design+%2B+Code;Build.+Break.+Rebuild.;Coffee+%2C+Code+%2C+Repeat;Bug+Finder;Digital+Dreamer;Creator+%4014;Triecbot+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🧠 About Me:
+### 🧠 About Me
 ```bash
 > whoami
 👤 Abdou (a.k.a. Abdbyte)
@@ -16,16 +16,16 @@
 🔢 14 y/o
 
 > os
-🐧 Linux Blooded
+🐧 Linux Native
 
 > projects
-🌍 triecbot.xyz | bots, automation & domination
+🌍 triecbot.xyz | bots, automation & experiments
 
 > learning
-⚛️ Next.js + React (Now I'm bullying React a bit 😂)
+⚛️ Next.js + React (breaking stuff & fixing it)
 
 > motto
-⚡ Code. Build. Break. Rebuild. Rule.
+⚡ Code. Learn. Improve. Repeat.
 ````
 
 ---
@@ -34,27 +34,42 @@
 
 ```bash
 > langs --list
-📦 Kotlin, Python, Node.js, JS/TS, PHP, Go, Swift, Rust
-🧠 SQL / FastSQL / MongoDB
-🔍 Shell, C#, Lua, V8 JS, Java
+📦 JavaScript / TypeScript, Python, Node.js, PHP (basics), Kotlin (learning)
+🧠 Databases: MongoDB, MySQL, PostgreSQL (beginner level)
+🔍 Shell scripting & Linux commands
 
-> frameworks --full
-🛠️ Express.js, Fastify, Docker, Flutter, Next.js
+> frameworks --used
+🛠️ Backend: Express.js, Fastify (still learning others)  
+⚡ Frontend: React, Next.js (currently deep-diving)  
+📱 Mobile: Flutter (beginner)  
+🎨 UI/UX: Tailwind CSS, ShadCN, Figma basics  
+☁️ Cloud: Vercel, Netlify, Cloudflare (deployment focus)  
+🔐 Security: JWT, OAuth2 (intro level)  
+💻 Other: Electron, WebSockets (learning by doing)
 
-> i'm currently in love with:
-💚 Terminal UI, System Automation, and Creative Coding
+> roles --i_am
+🌐 Full Stack Learner
+🖥️ Backend Explorer
+🎨 UI/UX Tinkerer
+🔐 Security Curious
+📱 Mobile Beginner
+
+> i'm currently into:
+💚 Terminal UI, Discord bots, system automation
 ```
 
 ---
 
-### 📊 GitHub Flexing
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdou-da0wew&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-da0wew&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </p>
 
 ---
-### 📊 Discord Stats
+
+### 📊 Discord Presence
 
 <p align="center">
   <a href="https://discord.com/users/1276261981392867431">
@@ -62,8 +77,9 @@
   </a>
 </p>
 
+---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 | Platform      | Link                                            |
 | ------------- | ----------------------------------------------- |
@@ -74,28 +90,29 @@
 
 ---
 
-### 🧠 Divee – Smart AI Assistant :3
+### 🧠 Divee – Smart AI Assistant
 
 ```bash
 > systemctl start divee.service
-🟢 Running Divee, the digital sidekick of Abdou.
-📍 Assists with code, logic, bot-making, and domination.
+🟢 Running Divee, my sidekick project.
+📍 Assists with bots, code experiments, and automation.
 ```
 
 ---
 
 ```bash
-> echo "I'm 14 but code like I'm 40"
+> echo "I'm 14 but I think like a dev"
 💥 Output: TRUE
 ```
 
-### 🧠 Fun Quote:
+---
+
+### 💡 Quote
 
 > *"In a world full of bugs, be the debugger."*
 
 ---
 
-<p align="center"><b>Thanks for visiting my terminal. Come back stronger 💻</b></p>
+<p align="center"><b>Thanks for passing by 🚀</b></p>
 
----
 
