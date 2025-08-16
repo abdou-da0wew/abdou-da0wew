@@ -34,25 +34,41 @@
 
 ```bash
 > langs --list
-📦 JavaScript / TypeScript, Python, Node.js, PHP (basics), Kotlin (learning)
-🧠 Databases: MongoDB, MySQL, PostgreSQL (beginner level)
-🔍 Shell scripting & Linux commands
+📦 JavaScript / TypeScript, Python, Node.js, PHP, Kotlin, C#, C++, C, Assembly(Bruh, no one use it nowaday.), 
+🧠 Databases: MongoDB, MySQL, PostgreSQL.
+🔍 Shell scripting & Linux commands.
 
 > frameworks --used
-🛠️ Backend: Express.js, Fastify (still learning others)  
-⚡ Frontend: React, Next.js (currently deep-diving)  
-📱 Mobile: Flutter (beginner)  
-🎨 UI/UX: Tailwind CSS, ShadCN, Figma basics  
-☁️ Cloud: Vercel, Netlify, Cloudflare (deployment focus)  
-🔐 Security: JWT, OAuth2 (intro level)  
-💻 Other: Electron, WebSockets (learning by doing)
+🛠️ Backend: Express.js, Fastify
+⚡ Frontend: React, Next.js, Vue.js
+📱 Mobile: Flutter
+🎨 UI/UX: Tailwind CSS, ShadCN, Figma.
+☁️ Cloud: Vercel, Netlify, Cloudflare 
+🔐 Security: JWT, OAuth2
+💻 Other: Electron, WebSockets 
 
-> roles --i_am
-🌐 Full Stack Learner
-🖥️ Backend Explorer
-🎨 UI/UX Tinkerer
-🔐 Security Curious
-📱 Mobile Beginner
+> frameworks --full 
+🛠️ Backend: Express.js, Fastify, NestJS, Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core 
+⚡ Frontend: React, Next.js, Vue.js, Nuxt.js, Angular, Svelte, Astro 
+📱 Mobile: Flutter, React Native, SwiftUI, Kotlin Multiplatform, Ionic 
+🐳 DevOps: Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions, CI/CD pipelines 
+🎨 UI/UX: Tailwind CSS, Chakra UI, Material UI, ShadCN, Figma 
+🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Firebase, DynamoDB, SQLite 
+☁️ Cloud: AWS, GCP, Azure, Vercel, Netlify, Cloudflare 
+🔐 Security: JWT, OAuth2, Keycloak, OpenID, OWASP practices 
+💻 System/Other: Electron, Tauri, Qt, Tkinter, GTK, GraphQL, gRPC, WebSockets
+
+
+> roles --i_am 
+🏗️ Software Architect 
+⚙️ DevOps Engineer 
+🌐 Full Stack Developer 
+🖥️ Backend Developer 
+🎨 UI/UX Designer 
+🗄️ Database Administrator (DBA) 
+📱 Mobile Developer 
+🔐 Security Engineer 
+...and much more loading soon 🚀
 
 > i'm currently into:
 💚 Terminal UI, Discord bots, system automation
