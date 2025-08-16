@@ -38,25 +38,25 @@
 🧠 Databases: MongoDB, MySQL, PostgreSQL.
 🔍 Shell scripting & Linux commands.
 
-> frameworks --used
+> frameworks --used   # frameworks/tools I work with seriously
 🛠️ Backend: Express.js, Fastify
 ⚡ Frontend: React, Next.js, Vue.js
 📱 Mobile: Flutter
-🎨 UI/UX: Tailwind CSS, ShadCN, Figma.
-☁️ Cloud: Vercel, Netlify, Cloudflare 
+🎨 UI/UX: Tailwind CSS, ShadCN, Figma
+☁️ Cloud: Vercel, Netlify, Cloudflare
 🔐 Security: JWT, OAuth2
 💻 Other: Electron, WebSockets 
 
-> frameworks --full 
-🛠️ Backend: Express.js, Fastify, NestJS, Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core 
-⚡ Frontend: React, Next.js, Vue.js, Nuxt.js, Angular, Svelte, Astro 
-📱 Mobile: Flutter, React Native, SwiftUI, Kotlin Multiplatform, Ionic 
-🐳 DevOps: Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions, CI/CD pipelines 
-🎨 UI/UX: Tailwind CSS, Chakra UI, Material UI, ShadCN, Figma 
-🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Firebase, DynamoDB, SQLite 
-☁️ Cloud: AWS, GCP, Azure, Vercel, Netlify, Cloudflare 
-🔐 Security: JWT, OAuth2, Keycloak, OpenID, OWASP practices 
-💻 System/Other: Electron, Tauri, Qt, Tkinter, GTK, GraphQL, gRPC, WebSockets
+> frameworks --full   # explored / tried (not full projects yet)
+🛠️ Backend: NestJS, Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core
+⚡ Frontend: Nuxt.js, Angular, Svelte, Astro
+📱 Mobile: React Native, SwiftUI, Kotlin Multiplatform, Ionic
+🐳 DevOps: Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions
+🎨 UI/UX: Chakra UI, Material UI
+🗄️ Databases: Redis, Cassandra, Firebase, DynamoDB, SQLite
+☁️ Cloud: AWS, GCP, Azure
+🔐 Security: Keycloak, OpenID, OWASP practices
+💻 System/Other: Tauri, Qt, Tkinter, GTK, GraphQL, gRPC
 
 
 > roles --i_am 
