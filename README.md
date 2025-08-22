@@ -47,7 +47,7 @@
 🔐 Security: JWT, OAuth2
 💻 Other: Electron, WebSockets 
 
-> frameworks --full   # explored / tried (not full projects yet)
+> frameworks --full   # explored/tried (not full projects yet)
 🛠️ Backend: NestJS, Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core
 ⚡ Frontend: Nuxt.js, Angular, Svelte, Astro
 📱 Mobile: React Native, SwiftUI, Kotlin Multiplatform, Ionic
@@ -65,12 +65,12 @@
 🌐 Full Stack Developer 
 🖥️ Backend Developer 
 🎨 UI/UX Designer 
-🗄️ Database Administrator (DBA) 
+🗄️ Database Administrator (DBA) -- Designed MySQL + Redis architecture for real-time dashboards
 📱 Mobile Developer 
 🔐 Security Engineer 
 ...and much more loading soon 🚀
 
-> i'm currently into:
+> I'm currently into:
 💚 Terminal UI, Discord bots, system automation
 ```
 
@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 Discord Presence
+### [1tabueno](https://cdn.discordapp.com/emojis/1242446902113341461.webp?size=48&name=1tabueno) My Discord Presence
 
 <p align="center">
   <a href="https://discord.com/users/1276261981392867431">
