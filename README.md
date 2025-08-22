@@ -85,7 +85,8 @@
 
 ---
 
-### [1tabueno](https://cdn.discordapp.com/emojis/1242446902113341461.webp?size=48&name=1tabueno) My Discord Presence
+###  My Discord
+<img src="https://cdn.discordapp.com/emojis/1242446902113341461.webp?size=48&name=1tabueno" width="20" height="20"/>
 
 <p align="center">
   <a href="https://discord.com/users/1276261981392867431">
