@@ -118,7 +118,7 @@
 ---
 
 ```bash
-> echo "I'm 14 but I think like a dev"
+> echo "I'm 14 but I think like a 20-30"
 💥 Output: TRUE
 ```
 
