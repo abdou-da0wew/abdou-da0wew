@@ -136,6 +136,8 @@
 
 Built to assist with coding, automation, and intelligent conversation — a project that taught me everything from NLP fundamentals to production API design.
 
+> 🚧 **Private Beta** — Currently refining for public release
+
 ---
 
 ## 💡 Current Focus
