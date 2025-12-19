@@ -105,9 +105,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdou-da0wew&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+  <img src="https://metrics.lecoq.io/abdou-da0wew?template=classic&base.header=0&gists=1&lines=1&config.timezone=Africa%2FCairo" width="90%" alt="GitHub Metrics" />
 </p>
-
 ---
 
 ## 🌐 Connect
