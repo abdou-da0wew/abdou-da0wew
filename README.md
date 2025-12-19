@@ -39,24 +39,26 @@
 🔍 Shell scripting & Linux commands.
 
 > frameworks --used   # frameworks/tools I work with seriously
-🛠️ Backend: Express.js, Fastify
+🛠️ Backend: Express.js, Fastify, NestJS
 ⚡ Frontend: React, Next.js, Vue.js
-📱 Mobile: Flutter
-🎨 UI/UX: Tailwind CSS, ShadCN, Figma
+📱 Mobile: Flutter, React Native
+🐳 DevOps: Docker, Kubernetes, GitHub Actions
+🎨 UI/UX: Tailwind CSS, ShadCN, Figma, AdobeXD
+🗄️ Databases: Redis, SQLite
 ☁️ Cloud: Vercel, Netlify, Cloudflare
-🔐 Security: JWT, OAuth2
-💻 Other: Electron, WebSockets 
+🔐 Security: JWT, OAuth2, Unique Methods like My408.
+💻 Other: Electron, WebSockets, Tauri
 
 > frameworks --full   # explored/tried (not full projects yet)
-🛠️ Backend: NestJS, Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core
+🛠️ Backend: Koa, Hapi, Spring Boot, Django, Flask, Laravel, AdonisJS, ASP.NET Core
 ⚡ Frontend: Nuxt.js, Angular, Svelte, Astro
-📱 Mobile: React Native, SwiftUI, Kotlin Multiplatform, Ionic
-🐳 DevOps: Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions
+📱 Mobile: SwiftUI, Kotlin Multiplatform, Ionic
+🐳 DevOps: Ansible, Terraform, Jenkins
 🎨 UI/UX: Chakra UI, Material UI
-🗄️ Databases: Redis, Cassandra, Firebase, DynamoDB, SQLite
+🗄️ Databases: Cassandra, Firebase, DynamoDB,
 ☁️ Cloud: AWS, GCP, Azure
 🔐 Security: Keycloak, OpenID, OWASP practices
-💻 System/Other: Tauri, Qt, Tkinter, GTK, GraphQL, gRPC
+💻 System/Other: Qt, Tkinter, GTK, GraphQL, gRPC
 
 
 > roles --i_am 
