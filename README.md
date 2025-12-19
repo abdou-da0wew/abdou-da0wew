@@ -122,10 +122,27 @@
 
 ---
 
+## 🤖 Featured Project: Divee AI
+
+**Divee** — A homemade LLM assistant with GPT-3.5 Turbo-level performance (It's not using GPT-3.5 in the backend.)
+
+### Key Features:
+- 🧠 **Divee Gelo 4.0** — The flagship model with advanced capabilities
+- 🔍 **Smart Context Awareness** — Decides when to web search, save memory, or respond directly
+- 💬 **Adaptive Response Style** — Knows when to be brief vs. detailed
+- ⚡ **Function Calling** — Native tool integration for extended capabilities
+- 🚧 **New Backend API** — Currently rebuilding the entire API infrastructure
+
+**Development Time:** 6+ months from scratch
+
+Built to assist with coding, automation, and intelligent conversation — a project that taught me everything from NLP fundamentals to production API design.
+
+---
+
 ## 💡 Current Focus
 
 - 💚 Terminal UI applications
-- 🤖 Discord bot automation
+- 🤖 Discord bot automation & Divee AI development
 - ⚛️ React/Next.js projects
 - 🐧 Linux system scripting
 
