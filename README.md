@@ -1,25 +1,55 @@
 # Hello, I'm Abdou 👋
 
-**14-year-old Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation.
+**15-year-old Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation. (and a Linux Enthusiast)
 
 ```bash
-> whoami
-👤 Abdou (a.k.a. Abdbyte)
+~
+❯  whoami
+👤 Abdou (a.k.a. abdou-da0wew)
 
-> age
+~
+❯ cd Me
+
+~/Me
+❯ age 
 🔢 15 years old
 
-> os
+~/Me
+❯ cd ..
+
+~
+❯ cd Technical
+
+~/Technical
+❯ os
 🐧 Linux Native
 
-> projects
+~/Technical
+❯ projects
 🌍 triecbot.xyz | Bots, automation & experiments
 
-> learning
-⚛️ Next.js + React (breaking stuff & fixing it)
+~/Technical
+❯ cd ..
 
-> motto
+~
+❯ cd Me
+
+~/Me
+❯ learning
+⚛️ Next.js + React + R3F (breaking stuff & fixing it)
+
+~/Me
+❯ motto
 ⚡ Code. Learn. Improve. Repeat.
+
+~/Me
+❯ cd ..
+
+~
+❯ ai       → Building Divee: my own AI family (LLMs, VLMs, vision, voice)
+
+~
+❯ status   → 🟢 Building & open to commissions
 ```
 
 ---
@@ -171,9 +201,9 @@ DiveeOI is the most featured member of the family right now: a **highly optimize
 
 ### 📦 What I've Shipped
 
-- **Triecbot** — Full Discord bot with dashboards, sharding, moderation, economy
-- **Iris Camera** — GPU-accelerated camera app (Rust, GTK4, wgpu) with face detection
-- **Semantic Moderation** — Toxic detection from embeddings, not keywords (Rust + ONNX)
+- **Triecbot** — Full Discord bot with dashboards, sharding, moderation, economy 
+- **Iris Camera** — GPU-accelerated camera app (Rust, GTK4, wgpu) with face detection (Still in beta really)
+- **Semantic Moderation** — Toxic detection from embeddings, not keywords (Rust + ONNX) (For A discord Server)
 
 ---
 
