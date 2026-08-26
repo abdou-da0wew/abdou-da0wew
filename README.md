@@ -1,6 +1,6 @@
 # Hello, I'm Abdou 👋
 
-**15-year-old Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation. (and a Linux Enthusiast)
+**A Real Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation. (and a Linux Enthusiast)
 
 ```bash
 ~
@@ -12,7 +12,7 @@
 
 ~/Me
 ❯ age 
-🔢 15 years old
+🔢 xx years old
 
 ~/Me
 ❯ cd ..
