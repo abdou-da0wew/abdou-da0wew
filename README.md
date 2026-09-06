@@ -46,10 +46,11 @@
 ❯ cd ..
 
 ~
-❯ ai       → Building Divee: my own AI family (LLMs, VLMs, vision, voice)
-
+❯ ai       
+→ Building Divee: my own AI family (LLMs, VLMs, vision, voice)
 ~
-❯ status   → 🟢 Building & open to commissions
+❯ status
+→ 🟢 Building & open to commissions
 ```
 
 ---
