@@ -36,7 +36,7 @@
 
 ~/Me
 ❯ learning
-⚛️ Next.js + React + R3F (breaking stuff & fixing it)
+⚛️ Next.js + React + R3F + Decision Models (breaking stuff & fixing it)
 
 ~/Me
 ❯ motto
