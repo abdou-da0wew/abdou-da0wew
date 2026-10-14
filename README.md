@@ -1,6 +1,6 @@
 # Hello, I'm Abdou 👋
 
-**A Real Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation. (and a Linux Enthusiast)
+**15yo Full-Stack Developer & Systems Engineer** — shipping production-grade systems, AI tooling, and Linux automation. (and a Linux Enthusiast)
 
 ```bash
 ~
