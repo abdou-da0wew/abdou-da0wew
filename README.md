@@ -156,7 +156,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://triecbot.xyz"><img src="https://img.shields.io/badge/Website-triecbot.xyz-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://abdou-da0wew.vercel.app"><img src="https://img.shields.io/badge/Website-abdou-da0wew.vercel.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/abdou-da0wew"><img src="https://img.shields.io/badge/GitHub-abdou--da0wew-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.com/users/1276261981392867431"><img src="https://img.shields.io/badge/Discord-1t__na-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/eu_y.4"><img src="https://img.shields.io/badge/Instagram-@eu_y.4-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
