@@ -178,12 +178,13 @@
 
 ### DiveeOI — The Agent
 
-DiveeOI is the most featured member of the family right now: a **highly optimized fork of OpenCode** with my architecture on top.
+DiveeOI is the most featured member of the family right now: a **highly optimized AI Agent-like-Opencode** with my architecture on top.
 
 - 🧠 **Memory System** — Persistent memory across sessions
 - 🚀 **Faster Everything** — Boot speed, LLM response speed, and tool calls, all optimized
 - ⚙️ **Dynamic Resources** — Resource consumption adapts at runtime to what's needed
 - 🔧 **Improved LSP Usage** — Better language server integration in the agent
+- More comming!!
 
 **Development Time:** Built, broken, and rebuilt over months of real use
 
