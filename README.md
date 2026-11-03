@@ -26,7 +26,7 @@
 
 ~/Technical
 ❯ projects
-🌍 triecbot.xyz | Bots, automation & experiments
+🌍 triecbot.xyz | Bots, automation & experiments | Desktop Apps, AI Agents, Websites, Backends & Api's 
 
 ~/Technical
 ❯ cd ..
