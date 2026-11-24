@@ -1,6 +1,6 @@
 <!--
-  An image-led profile, art-directed around the portfolio's paper / ink / green palette.
-  Each project row is a separate linked SVG so the entries remain clickable.
+  A continuous image-led profile in the portfolio's paper / ink / green palette.
+  Individual SVG bubbles share one canvas and one restrained background motion.
 -->
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/02-selected-work-heading.svg" alt="Selected work: a few things I've made." width="100%" />
+  <img src="assets/readme/02-selected-work-heading.svg" alt="Selected work — a few things I've made." width="100%" />
 </p>
 
 <p align="center"><a href="https://github.com/abdou-da0wew/DiveeOI"><img src="assets/readme/projects/01-diveeoi.svg" alt="01 DiveeOI: Self-hosted AI development; agents work directly in local projects." width="100%" /></a></p>
@@ -17,7 +17,7 @@
 <p align="center"><a href="https://github.com/abdou-da0wew/NoRav"><img src="assets/readme/projects/04-norav.svg" alt="04 NoRav: A browser workspace for proxy-backed browsing and desktop-style navigation." width="100%" /></a></p>
 <p align="center"><a href="https://github.com/abdou-da0wew/REEO"><img src="assets/readme/projects/05-reeo.svg" alt="05 REEO: A digital logic simulator, revived from the BOOLR project." width="100%" /></a></p>
 <p align="center"><a href="https://github.com/abdou-da0wew/GNULense"><img src="assets/readme/projects/06-gnulense.svg" alt="06 GNULense: GNU.org ingestion and search, from distributed collection to discovery." width="100%" /></a></p>
-<p align="center"><a href="https://github.com/abdou-da0wew/smo"><img src="assets/readme/projects/07-smo.svg" alt="07 SMO: Scoped Modular Orchestration for structuring and scaffolding multi-language projects." width="100%" /></a></p>
+<p align="center"><a href="https://github.com/abdou-da0wew/smo"><img src="assets/readme/projects/07-smo.svg" alt="07 SMO: Scoped Modular Orchestration for structuring multi-language projects." width="100%" /></a></p>
 <p align="center"><a href="https://github.com/abdou-da0wew/Bastion"><img src="assets/readme/projects/08-bastion.svg" alt="08 Bastion: Controlled file delivery with per-file access, audit logs and sharded storage." width="100%" /></a></p>
 <p align="center"><a href="https://github.com/abdou-da0wew/docxer"><img src="assets/readme/projects/09-docxer.svg" alt="09 Docxer: Documentation retrieval with local indexing and MCP integration." width="100%" /></a></p>
 <p align="center"><a href="https://github.com/abdou-da0wew/MaNPM"><img src="assets/readme/projects/10-manpm.svg" alt="10 MaNPM: Go-powered package installer with parallel, direct-to-disk extraction." width="100%" /></a></p>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/05-current-direction.svg" alt="Still curious, still building. Current areas of focus." width="100%" />
+  <img src="assets/readme/05-current-direction.svg" alt="Still curious. Still building." width="100%" />
 </p>
 
 <p align="center">
