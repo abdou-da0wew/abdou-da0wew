@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="68" viewBox="0 0 530 68" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio</title>
+<desc id="desc">Abdou&#x27;s portfolio website</desc>
+<rect width="530" height="68" fill="#FAFDF9"/>
+
+<path d="M48 40 H482" stroke="#1D2D35" stroke-opacity=".10" stroke-width="1"/>
+<path d="M24 52 H506" stroke="#307344" stroke-width="1.5"/><text x="28" y="40" font-family="monospace" font-size="13" font-weight="600" fill="#1D2D35" letter-spacing="1.2">PORTFOLIO</text><text x="502" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="400" fill="#307344" text-anchor="end">↗</text></svg>
