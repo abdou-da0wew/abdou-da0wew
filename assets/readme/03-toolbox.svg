@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+<title id="title">Abdou — THE TOOLBOX</title>
+<desc id="desc">A practical stack across product development, systems work, data and creative software.</desc>
+<rect width="1200" height="690" rx="28" fill="#FAFDF9"/>
+<g opacity=".42">
+  <circle cx="1090" cy="30" r="250" fill="#E4F5E0"/>
+  <circle cx="80" cy="670" r="190" fill="#F4FBF3"/>
+  <path d="M0 120 L1200 120 M0 610 L1200 610" stroke="#1D2D35" stroke-opacity=".035" stroke-width="1"/>
+  <path d="M-100 0 L1100 690 M0 -100 L1200 590" stroke="#307344" stroke-opacity=".045" stroke-width="2"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0; 22 12; 0 0" dur="72s" repeatCount="indefinite"/>
+</g>
+<g opacity=".14">
+  <circle cx="1085" cy="90" r="100" fill="none" stroke="#307344" stroke-width="1.4"/>
+  <circle cx="1085" cy="90" r="72" fill="none" stroke="#1D2D35" stroke-width="1"/>
+  <circle cx="1085" cy="90" r="44" fill="none" stroke="#307344" stroke-width="1"/>
+</g>
+<rect x="20" y="20" width="1160" height="650" rx="22" fill="none" stroke="#1D2D35" stroke-opacity=".15"/>
+<text x="54" y="64" font-family="monospace" font-size="13" font-weight="600" fill="#64564B" letter-spacing="2.2">ABDOU  /  03  —  THE TOOLBOX</text>
+<text x="1146" y="64" font-family="monospace" font-size="12" font-weight="500" fill="#64564B" letter-spacing="1.4" text-anchor="end">SOFTWARE  ·  SYSTEMS  ·  AI</text>
+<path d="M54 86 H1146" stroke="#1D2D35" stroke-opacity=".16"/>
+<text x="54" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="500" fill="#1D2D35" letter-spacing="-1.5">Tools follow the problem.</text>
+<text x="54" y="184" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#64564B" >A practical stack across product development, systems work, data and creative software.</text>
+<rect x="54" y="222" width="536" height="174" rx="18" fill="#FFFFFF" stroke="#D9E2D8" stroke-width="1"/><text x="80" y="260" font-family="monospace" font-size="13" font-weight="700" fill="#307344" letter-spacing="1.4">01  /  LANGUAGES</text><text x="80" y="304" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >TypeScript · JavaScript</text><text x="80" y="334" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Go · Rust · Python</text><text x="80" y="364" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >C# · Dart · SQL · Bash</text><rect x="610" y="222" width="536" height="174" rx="18" fill="#FFFFFF" stroke="#D9E2D8" stroke-width="1"/><text x="636" y="260" font-family="monospace" font-size="13" font-weight="700" fill="#307344" letter-spacing="1.4">02  /  APPLICATIONS</text><text x="636" y="304" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >React · Next.js · Flutter</text><text x="636" y="334" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Node.js · Bun · Fastify</text><text x="636" y="364" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Tailwind CSS · Three.js</text><rect x="54" y="420" width="536" height="174" rx="18" fill="#FFFFFF" stroke="#D9E2D8" stroke-width="1"/><text x="80" y="458" font-family="monospace" font-size="13" font-weight="700" fill="#307344" letter-spacing="1.4">03  /  DATA &amp; RUNTIME</text><text x="80" y="502" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >MongoDB · PostgreSQL</text><text x="80" y="532" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >SQLite · Redis</text><text x="80" y="562" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Docker · Linux · Git</text><rect x="610" y="420" width="536" height="174" rx="18" fill="#FFFFFF" stroke="#D9E2D8" stroke-width="1"/><text x="636" y="458" font-family="monospace" font-size="13" font-weight="700" fill="#307344" letter-spacing="1.4">04  /  AI &amp; CREATIVE</text><text x="636" y="502" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >LLM and retrieval pipelines</text><text x="636" y="532" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Embeddings · ONNX Runtime</text><text x="636" y="562" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#302E26" >Unity · Blender · GPU tooling</text><text x="56" y="642" font-family="monospace" font-size="12" font-weight="600" fill="#64564B" letter-spacing="1.2">I CHOOSE TOOLS AROUND THE SYSTEM THAT NEEDS TO SHIP.</text></svg>
